@@ -4,3 +4,8 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+/Connected Office Web Application_User Acceptance testing/.local
+/Connected Office Web Application_User Acceptance testing/.project
+/Connected Office Web Application_User Acceptance testing/.objects
+/Connected Office Web Application_User Acceptance testing/.settings
+/Connected Office Web Application_User Acceptance testing/.tmh
